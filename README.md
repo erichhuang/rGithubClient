@@ -3,6 +3,8 @@
 
 -----
 
+## Note: this fork merely changes the cacert.pem so that this works on Red Hat Linux.
+
 to install the `rGithubClient`:
 
 ```r
