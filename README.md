@@ -1,9 +1,9 @@
 ## rGithubClient
-### a convenience package to talk to github through the R programming language
+#### a convenience package to talk to github through the R programming language
 
 -----
 
-## Note: this fork merely changes the cacert.pem so that this works on Red Hat Linux.
+Note: this fork changes the cacert.pem so that this works on Red Hat Linux.
 
 to install the `rGithubClient`:
 
